@@ -30,22 +30,22 @@ clip/zero-padding, wrap around, copy edge, and reflect across edge, as illustrat
 
 Output of Convolution funciton for the following filters:
 * Prewitt_X  
-<img align="center" width = 600 src="images/PrewittMx.JPG">
+<img align="center" width = 600 src="images/PrewittMx.png">
 
 * Prewitt_Y
-<img align="center" width = 600 src="images/PrewittMy.JPG">
+<img align="center" width = 600 src="images/PrewittMy.png">
 
 * Roberts_X
-<img align="center" width = 600 src="images/Robertsx.JPG">
+<img align="center" width = 600 src="images/Robertsx.png">
 
 * Roberts_Y
-<img align="center" width = 600 src="images/Robertsy.JPG">
+<img align="center" width = 600 src="images/Robertsy.png">
 
 * Sobel_X
-<img align="center" width = 600 src="images/Sobelx.JPG">
+<img align="center" width = 600 src="images/Sobelx.png">
 
 * Sobel_Y
-<img align="center" width = 600 src="images/Sobely.JPG">  
+<img align="center" width = 600 src="images/Sobely.png">  
 
 
 ## 2D FFT
