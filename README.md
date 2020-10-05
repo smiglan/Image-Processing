@@ -6,10 +6,10 @@ This repository contains code for various project in image process domain as par
 This project contains the following implementations:
 
 * Implement Gaussian and Laplacian pyramid, 𝑔𝑃𝑦𝑟, 𝑙𝑃𝑦𝑟 = 𝐶𝑜𝑚𝑝𝑢𝑡𝑒𝑃𝑦𝑟(𝑖𝑛𝑝𝑢𝑡_𝑖𝑚𝑎𝑔𝑒, 𝑛𝑢𝑚_𝑙𝑎𝑦𝑒𝑟𝑠)  
-Input arguments : 𝑖𝑛𝑝𝑢𝑡_𝑖𝑚𝑎𝑔𝑒 is an input image (grey, or RGB), 𝑛𝑢𝑚_𝑙𝑎𝑦𝑒𝑟𝑠 is the number of layers of the pyramid to be computed.  
+_Input arguments_ : 𝑖𝑛𝑝𝑢𝑡_𝑖𝑚𝑎𝑔𝑒 is an input image (grey, or RGB), 𝑛𝑢𝑚_𝑙𝑎𝑦𝑒𝑟𝑠 is the number of layers of the pyramid to be computed.  
 Depending on the size of 𝑖𝑛𝑝𝑢𝑡_𝑖𝑚𝑎𝑔𝑒, 𝑛𝑢𝑚_𝑙𝑎𝑦𝑒𝑟𝑠 needs to be checked if valid.  
-If not, use the maximum value allowed in terms of the size of 𝑖𝑛𝑝𝑢𝑡_𝑖𝑚𝑎𝑔𝑒.
-Outputs: 𝑔𝑃𝑦𝑟, 𝑙𝑃𝑦𝑟 are the Gaussian pyramid and Laplacian pyramid respectively.  
+If not, use the maximum value allowed in terms of the size of 𝑖𝑛𝑝𝑢𝑡_𝑖𝑚𝑎𝑔𝑒.  
+_Outputs_: 𝑔𝑃𝑦𝑟, 𝑙𝑃𝑦𝑟 are the Gaussian pyramid and Laplacian pyramid respectively.  
 
 * Write a simple GUI to create a black/white binary mask image. The GUI can open an image (e.g. the foreground image that you will use in blending); On the image, you can select a region of interest using either a rectangle or an eclipse, [optional] even some free-form region. Based on the opened image and the selected regions, the GUI can
 generate a black/white mask image of the same size as the opened image, in which the selected region(s) are white and the remaining black.
