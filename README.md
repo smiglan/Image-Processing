@@ -28,24 +28,11 @@ clip/zero-padding, wrap around, copy edge, and reflect across edge, as illustrat
 
 <img align="center" width = 600 src="images/padding.JPG">
 
-Output of Convolution funciton for the following filters:
-* Prewitt_X  
-<img align="center" width = 600 src="images/PrewittMx.png">
+Example Output of Convolution funciton for Sobel_X  filter:
 
-* Prewitt_Y
-<img align="center" width = 600 src="images/PrewittMy.png">
-
-* Roberts_X
-<img align="center" width = 600 src="images/Robertsx.png">
-
-* Roberts_Y
-<img align="center" width = 600 src="images/Robertsy.png">
-
-* Sobel_X
 <img align="center" width = 600 src="images/Sobelx.png">
 
-* Sobel_Y
-<img align="center" width = 600 src="images/Sobely.png">  
+ 
 
 
 ## 2D FFT
