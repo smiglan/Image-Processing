@@ -26,7 +26,7 @@ Example:
 Write a function to implement 𝑔 = 𝑐𝑜𝑛𝑣2(𝑓,𝑤, 𝑝𝑎𝑑), where 𝑓 is an input image (grey, or RGB), 𝑤 is a 2-D kernel (e.g., 3 × 3 box filter), and 𝑝𝑎𝑑 represents the 4 padding type :
 clip/zero-padding, wrap around, copy edge, and reflect across edge, as illustrated in the following example
 
-<img align="center" width = 600 src="images/padding.JPG">
+<img align="center" width = 600 src="images/Padding.JPG">
 
 Example Output of Convolution funciton for Sobel_X  filter:
 
